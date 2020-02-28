@@ -1,4 +1,4 @@
-# cinemaweb
+# INDO XX2
 
 ## Project setup
 ```
